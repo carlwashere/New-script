@@ -1,0 +1,1 @@
+_G.words = {_G.CTitle.. " | You are single :>",_G.CTitle.. " | Made by Carl",_G.CTitle.. " | JAKE STOLE MY TOAST NOO,_G.CTitle.. " | bro what?",_G.CTitle.. " | You are pretty ugly :>",_G.CTitle.. " | Woah! you see that?",_G.CTitle.. " | Carl is the best :D ",_G.CTitle.. " | Are you human?",_G.CTitle.. " | Beep Boop Beep?"} --You can add more words but it should be a string
